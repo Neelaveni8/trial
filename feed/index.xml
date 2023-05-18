@@ -12,7 +12,7 @@
 	<atom:link href="https://neelaveni8.github.io/trial/feed/" rel="self" type="application/rss+xml" />
 	<link>https://neelaveni8.github.io/trial</link>
 	<description>Learning Management System</description>
-	<lastBuildDate>Wed, 17 May 2023 09:25:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 May 2023 05:52:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,56 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.1</generator>
 	<item>
+		<title>Github</title>
+		<link>https://neelaveni8.github.io/trial/github/</link>
+					<comments>https://neelaveni8.github.io/trial/github/#respond</comments>
+		
+		<dc:creator><![CDATA[Pandit]]></dc:creator>
+		<pubDate>Thu, 18 May 2023 05:51:57 +0000</pubDate>
+				<category><![CDATA[tips]]></category>
+		<guid isPermaLink="false">https://neelaveni8.github.io/trial/?p=246</guid>
+
+					<description><![CDATA[If you have added a new post in WordPress, the changes will be reflected in the local WordPress]]></description>
+										<content:encoded><![CDATA[
+<p>If you have added a new post in WordPress, the changes will be reflected in the local WordPress installation on your PC. Here&#8217;s what you need to do to see the newly added post:</p>
+
+
+
+<ol>
+<li>Start your local server environment: Make sure your local server environment (such as XAMPP, WAMP, or MAMP) is running. This will ensure that you can access and interact with your WordPress website locally.</li>
+
+
+
+<li>Access your WordPress website: Open your web browser and navigate to the local URL of your WordPress installation. Typically, this would be something like <code>http://localhost/your-wordpress-folder</code>.</li>
+
+
+
+<li>Log in to WordPress: Enter your WordPress administrator credentials to log in to the backend (admin area) of your local WordPress installation.</li>
+
+
+
+<li>Navigate to the posts section: Once you are logged in, you will be taken to the WordPress dashboard. From the dashboard, find and click on the &#8220;Posts&#8221; menu item in the left-hand sidebar.</li>
+
+
+
+<li>Check for the new post: In the &#8220;Posts&#8221; section, you will see a list of all posts on your WordPress website. Look for the newly added post in the list. If there are many posts, you can use the search or filter options to find the specific post.</li>
+
+
+
+<li>View the new post: Click on the title or the &#8220;View&#8221; link of the new post to see it in the frontend of your local WordPress website. This will display the post with the content you added.</li>
+</ol>
+
+
+
+<p>By following these steps, you will be able to view the newly added post within your local WordPress installation on your PC. Remember that these changes are only visible locally and are not automatically reflected on your live website hosted elsewhere or on GitHub. If you want to update your GitHub repository with the new post, you would need to follow the steps outlined in the previous responses on committing and pushing the changes to GitHub.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://neelaveni8.github.io/trial/github/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>WordPress basics</title>
 		<link>https://neelaveni8.github.io/trial/wordpress-basics/</link>
 					<comments>https://neelaveni8.github.io/trial/wordpress-basics/#respond</comments>
